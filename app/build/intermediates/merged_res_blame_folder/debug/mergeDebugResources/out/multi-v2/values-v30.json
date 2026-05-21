@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.reshmenammapride.app-mergeDebugResources-48:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sruja\\.gradle\\caches\\9.0.0\\transforms\\8f0e0f6550dac547418d568b5761f51f\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

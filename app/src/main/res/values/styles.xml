@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ReshmeNammaPride" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#1B5E20</item>
+        <item name="android:navigationBarColor">#F4FBF5</item>
+    </style>
+</resources>
